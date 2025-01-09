@@ -9,3 +9,6 @@ from ._implementacion import _calculo_complejo
 
 def sumar_y_multiplicar(a, b, c):
     return a + b + _calculo_complejo(b, c)
+
+def prueba_no_usado (a,b,c):
+    return a
